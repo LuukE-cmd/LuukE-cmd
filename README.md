@@ -19,7 +19,7 @@ Hi there! I'm a passionate programmer with experience in C#, Rust, C, and a keen
 
 **Feel free to reach out!**
 
-I'm always interested in connecting and collaborating on new projects. You can find my contact information or additional project links here (replace with your preferred contact details or links).
+I'm always interested in connecting and collaborating on new projects.
 
 
 <!---
