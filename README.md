@@ -11,7 +11,7 @@ Hi there! I'm a passionate programmer with experience in C#, Rust, C, and a keen
 
 **Projects:**
 
-* **Data Analysis/Visualization for PV Systems (C#):** This project leverages the .NET MAUI framework and REST APIs to retrieve data from a database. It then analyzes and visualizes the data for user-friendly interpretation, aiding in early fault detection, performance evaluation, and ensuring adherence to specifications.
+* **Data Analysis/Visualization for PV Systems (C# -> Rust):** This project leverages the .NET MAUI framework and REST APIs to retrieve data from a database. It then analyzes and visualizes the data for user-friendly interpretation, aiding in early fault detection, performance evaluation, and ensuring adherence to specifications. Currently this project has been reignited into a WebApp with a backend in rust and frontend in HTMX.
 * **Interactive Portfolio Website (Rust, htmx, Actix Web):** Work In Progress...
 * **Embedded Weather Station (ESP32):** This project demonstrates my proficiency in embedded programming and hardware development. It utilizes the ESP-IDF framework and FreeRTOS on an ESP32 board to connect to Wi-Fi, measure ambient temperature, humidity, and wind speed (using I2C sensors for temperature and a custom sensor with software debouncing for wind speed). The data is then transmitted to an MQTT server every 10 seconds using an MQTT client. While not shown here, the project incorporates additional logic for seamless operation.
 * **Python PV String Length Calculator:** This simple tool helps determine the ideal string length for a given number of solar panels.
