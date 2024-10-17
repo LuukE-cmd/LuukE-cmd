@@ -12,7 +12,7 @@ Hi there! I'm a passionate programmer with experience in C#, Rust, C, and a keen
 **Projects:**
 
 * **Data Analysis/Visualization for PV Systems (C#):** This project leverages the .NET MAUI framework and REST APIs to retrieve data from a database. It then analyzes and visualizes the data for user-friendly interpretation, aiding in early fault detection, performance evaluation, and ensuring adherence to specifications.
-* **Interactive Portfolio Website (Rust, htmx, Actix Web):** This ongoing project serves as my dynamic portfolio. It utilizes Three.js for a visually engaging 3D UI and features a custom image carousel built with minimal JavaScript code.
+* **Interactive Portfolio Website (Rust, htmx, Actix Web):** Work In Progress...
 * **Embedded Weather Station (ESP32):** This project demonstrates my proficiency in embedded programming and hardware development. It utilizes the ESP-IDF framework and FreeRTOS on an ESP32 board to connect to Wi-Fi, measure ambient temperature, humidity, and wind speed (using I2C sensors for temperature and a custom sensor with software debouncing for wind speed). The data is then transmitted to an MQTT server every 10 seconds using an MQTT client. While not shown here, the project incorporates additional logic for seamless operation.
 * **Python PV String Length Calculator:** This simple tool helps determine the ideal string length for a given number of solar panels.
 * **CO2-Optimized Electricity Purchase Calculator (Python):** This project allows users to specify a region (Europe or a specific country) and calculates optimal electricity purchase times for minimizing CO2 impact based on energy production data.
